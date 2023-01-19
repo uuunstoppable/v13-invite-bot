@@ -1,5 +1,6 @@
 # v13-invite-bot
 5 starda burda bot
+Botta / Commands'da var Tum komutları /'lada kullanabiliyorsunuz
 
 
 
