@@ -2,6 +2,8 @@
 15 starda burda bot
 Botta / Commands'da var Tum komutları /'lada kullanabiliyorsunuz
 
+Yeni nickim : Wendos
+
 
 
 ➥ Görseller 
